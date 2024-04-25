@@ -1,2 +1,3 @@
 print("test1")
-print("changed from local")
+print("changed")
+print ("After Conflict")
